@@ -8,6 +8,6 @@
 // console.log(0 === '');
 // console.log([] === '');
 
-if (age === 18) {
-    console.log("Adult");
-}
+// if (age === 18) {
+//     console.log("Adult");
+// }
