@@ -1,4 +1,4 @@
-// type quartion ( type convert )
+// type coercion ( type convert )
 // console.log(2 == 2);
 // console.log(1 == 2);
 // console.log(2 == 12);
@@ -15,4 +15,9 @@
 // const q = p;
 // console.log(p == q);
 
-console.log([5].toString())
+// console.log([5].toString())
+
+let count = 0;
+ if (count == false) {
+    console.log("Zero!");
+ };
